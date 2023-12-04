@@ -14,6 +14,8 @@ and Vim. All files are PDF format, about 628 Kbyte.
 English - Letter<br/>
 Dutch - A4
 
-----
+<br/>
+
+## 
 
 [About calendar colors](https://github.com/hotoo/vim-desktop-calendar/wiki)

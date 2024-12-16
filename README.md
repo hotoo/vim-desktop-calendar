@@ -20,6 +20,10 @@ Dutch - A4
 
 <img src="https://raw.githubusercontent.com/hotoo/vim-desktop-calendar/main/samples/2025.jpg" width="400px" />
 
+<br />
+
+More showcase see [#1](https://github.com/hotoo/vim-desktop-calendar/issues/1) please.
+
 ##
 
 [About calendar colors](https://github.com/hotoo/vim-desktop-calendar/wiki)

@@ -7,7 +7,7 @@
 A desktop calendar for 2027, made from one sheet of paper.<br/>
 After folding, one side contains a useful 12-month calendar.<br/>
 On the other side there is brief information about ICCF-Holland,<br/>
-and Vim. All files are PDF format, about 628 Kbyte.
+and Vim. All files are PDF format, about 310 Kbyte.
 
 **language - paper size**<br/>
 [English - A4](https://raw.githubusercontent.com/hotoo/vim-desktop-calendar/main/files/2027_en_a4.pdf)<br/>

@@ -13,6 +13,7 @@ and Vim. All files are PDF format, about 310 Kbyte.
 [English - A4](https://raw.githubusercontent.com/hotoo/vim-desktop-calendar/main/files/2027_en_a4.pdf)<br/>
 English - Letter<br/>
 Dutch - A4
+[German - A4](https://raw.githubusercontent.com/hotoo/vim-desktop-calendar/main/files/2027_de_a4.pdf)<br/>
 
 <br/>
 

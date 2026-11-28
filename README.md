@@ -6,7 +6,7 @@
 
 A desktop calendar for 2027, made from one sheet of paper.<br/>
 After folding, one side contains a useful 12-month calendar.<br/>
-On the other side there is brief information about (<del>ICCF-Holland<del>) Kuwasha,<br/>
+On the other side there is brief information about (<del>ICCF-Holland</del>) Kuwasha,<br/>
 and Vim. All files are PDF format, about 310 Kbyte.
 
 **language - paper size**<br/>
